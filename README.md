@@ -61,7 +61,7 @@ A C++ and Qt-based interactive application that simulates virtual memory managem
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/VirtualMemorySimulator.git
+   git clone https://github.com/somodidenise/Virtual-Memory-Simulator.git
    cd VirtualMemorySimulator
 
 3. **Open the project in Qt Creator or your preferred C++ IDE.**
