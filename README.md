@@ -71,7 +71,7 @@ A C++ and Qt-based interactive application that simulates virtual memory managem
    - Build the project
    - Run the executable
 
-## ✨ Screenshots
+## ✨ Screenshot
 ![Virtual Memory Interface](screenshot/virtual_memory.png)
 
 ## 📜 License
