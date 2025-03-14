@@ -72,7 +72,7 @@ A C++ and Qt-based interactive application that simulates virtual memory managem
    - Run the executable
 
 ## ✨ Screenshots
-![Virtual Memory Table](screenshots/virtual_memory.png)
+![Virtual Memory Interface](screenshot/virtual_memory.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
